@@ -1,15 +1,22 @@
 ---
 layout: default
+title: Daryl's Blog
 ---
+<!-- {% capture posts %}
+  {% for post in site.posts %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+{% for post in sortedposts %}
+    {% assign postitems = post | split: '#' %}
+		{% unless forloop.first %}
+    <li><a href={{ postitems[1] }}">{{ postitems[0] }}</a></li>
+		 {% endunless %}
+{% endfor %} -->
 
-<h1>{{page.title}}</h2>
-
-<p>Hi, I'm Daryl.</p>
-
-<p>
-I started this <a href="/blog">blog</a> to write and reflect on my life, dealing with others, and about the <a href="/reading">books that I've read</a> that helped inspire me.
-</p>	
-
-<p>
-I'm also starting a <a href="/newsletter">newsletter</a> to share the books that I've read, reviewed and find worth reading. If you're interested, just <a href="mailto:daryltan2007@yahoo.com.sg">email me</a> with your email address and I will include you in my monthly newsletter.
-</p>
+  {% for post in site.posts %}
+    <li>
+<a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
