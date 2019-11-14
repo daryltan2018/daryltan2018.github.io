@@ -1,12 +1,13 @@
 collections:
   notes:
+    permalink: /:categories/:title:output_ext	
     output: true
 
-permalink: /:categories/:title:output_ext
-
+  posts:
+    permalink: /:categories/:title:output_ext	
 defaults:
   - scope:
-      path: ""
+      path: "/notes"
       type: "notes"
     values:
       layout: "note"

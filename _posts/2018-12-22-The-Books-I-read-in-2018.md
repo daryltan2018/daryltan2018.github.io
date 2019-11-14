@@ -1,8 +1,3 @@
----
-layout: post
-permalink: 2018Books
----
-
 I started the year reading *The New Tsar: The Rise and Reign of Vladimir Putin*. It delves into the circumstances leading to the rise and rule of Vladimir Putin against the backdrop of the Cold War and communist Russia.   
 
 I also read Peter Drucker's *The Effective Executive* for the second time. The first time was because Jeff Bezos recommended it. It's a classic book written many years ago on the role of the executive and is applicable even in today's corporations.  

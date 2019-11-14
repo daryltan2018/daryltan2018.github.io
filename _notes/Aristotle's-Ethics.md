@@ -1,6 +1,7 @@
 ---
-layout: notes
+layout: post
 ---
+
 
 {{TOC}}
 

@@ -1,8 +1,3 @@
----
-layout: post
-permalink: 2017Books
----
-
 My wife got me a kindle at the end of the year and what a rewarding gift it was. Bought tons of books to read on it. In chronological order:
 
 *Flow*. Much of modern life is spent pondering on the meaning of life. Flow is an interesting viewpoint that posits that one can find meaning even if the worst of places (e.g as a prisoner of war or in a dead-end job). The secret lies in engaging in activities that produce what he calls “flow”. Similar to what athletes feel when they are “in the zone”. It’s something that has help change my perspective on my view on work as a means to an end versus being an end in itself. And made me a happier person overall.  

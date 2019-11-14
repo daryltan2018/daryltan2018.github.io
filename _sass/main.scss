@@ -43,6 +43,7 @@ h1 {
   line-height: 42px;
   font-weight: normal;
   margin-bottom: 20px;
+		text-align: left;
 }
 
 body.post h1 {
@@ -68,6 +69,11 @@ h3 {
   font-size: 20px;
   font-weight: bold;
 }
+
+span {
+	font-size: 11px;
+}
+
 
 img.avatar {
   background-size: 100%;
