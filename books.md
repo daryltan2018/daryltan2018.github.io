@@ -2,20 +2,21 @@
 layout: default
 title: Daryl (Books)
 ---
+*Will re-read those in bold sometime in the future.*
 
 ## Practical Books
 
 - So Good They Can’t Ignore You - By Cal Newport
 - The Secrets of Consulting - By Gerald Weinberg
 - More Secrets of Consulting - By Gerald Weinberg
-- The Self- Driven Child - By William Stixrud
+- **The Self- Driven Child - By William Stixrud**
 - On Writing Well - By William Zinsser
 - Understanding Exposure - By Bryan Peterson
 - Understanding Composition - By Bryan Peterson
-- Getting Things Done - By David Allen
-- Deep Work - By Cal Newport
-- Are your Lights On - By Gerald Weinberg
-- The Effective Executive - By Peter Drucker
+- **Getting Things Done - By David Allen**
+- **Deep Work - By Cal Newport**
+- **Are your Lights On - By Gerald Weinberg**
+- **The Effective Executive - By Peter Drucker**
 - Competing Against Luck - By Clayton Christensen
 - The Personal MBA: Master the Art of Business - By Josh Kaufman
 - It Doesn’t Have to Be Crazy At Work - By Jason Fried & DHH
@@ -54,7 +55,7 @@ title: Daryl (Books)
 - Street Smarts: An All Purpose Tool Kit for Entrepreneurs - By Norm Brodsky
 - Fooling Some of the People All of the Time - By David Einhorn
 
-##Philosophy
+## Philosophy
 - Notes from the Underground - By Fyodor Dostoyevsky
 - Fear and Trembling - By Soren Kierkegaard
 - The Daily Stoic - By Ryan Holiday

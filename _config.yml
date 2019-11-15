@@ -5,18 +5,15 @@ collections:
 
   posts:
     permalink: /:categories/:title:output_ext	
+
 defaults:
-  - scope:
-      path: "/notes"
-      type: "notes"
-    values:
-      layout: "note"
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
   - scope:
-      path: ""
+      path: "notes"
+      type: "pages"
     values:
-      layout: "default"
+      layout: "post"
