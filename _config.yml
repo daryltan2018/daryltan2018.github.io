@@ -15,10 +15,11 @@ defaults:
       layout: "post"
   -
     scope:
-      path: ""
+      path: "_terms"
       type: "terms"
     values:
       layout: "post"
+      type: "term"
   -
     scope:
       path: ""

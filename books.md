@@ -1,5 +1,5 @@
 ---
-title: Daryl (Books)
+title: Daryl (Book List)
 ---
 
 ###### Updated on 31 Oct 2019
