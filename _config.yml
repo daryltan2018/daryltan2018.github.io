@@ -19,3 +19,8 @@ defaults:
       type: "terms"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"			
