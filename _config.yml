@@ -1,5 +1,5 @@
 collections:
-  notes:
+  terms:
     permalink: /:categories/:title:output_ext	
     output: true
 
@@ -16,6 +16,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "notes"
+      type: "terms"
     values:
       layout: "post"
