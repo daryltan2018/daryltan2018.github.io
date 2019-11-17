@@ -1,8 +1,11 @@
 ---
-title: Daryl (Book List)
+layout: post
 ---
 
-###### Updated on 31 Oct 2019
+{{ TOC }}
+
+## Introduction
+This is a collection of the books I've read since 2017.
 
 ## Practical Books
 
@@ -13,9 +16,9 @@ title: Daryl (Book List)
 - On Writing Well - By William Zinsser
 - Understanding Exposure - By Bryan Peterson
 - Understanding Composition - By Bryan Peterson
-- Getting Things Done - By David Allen
+- [Getting Things Done - By David Allen](/Getting-things-done)
 - Deep Work - By Cal Newport
-- Are your Lights On - By Gerald Weinberg
+- [Are your Lights On - By Gerald Weinberg](/Are-your-lights-on)
 - The Effective Executive - By Peter Drucker
 - Competing Against Luck - By Clayton Christensen
 - The Personal MBA: Master the Art of Business - By Josh Kaufman
@@ -28,9 +31,9 @@ title: Daryl (Book List)
 - Do the Work - By Steven Pressfield
 
 ## History
-- Boyd - By Robert Coram
-- Sherman - By BH Liddel Hart
+- [Boyd - By Robert Coram](/To-be-or-to-do)
 - Montaigne - By Stefan Zweig
+- [Sherman - By BH Liddel Hart](/William-Sherman) 
 - The Essays - By Montaigne
 - Plutarch Lives Vol I - By Plutarch
 - Lincoln’s Melancholy - By Joshua Wolf Shenk
@@ -64,7 +67,7 @@ title: Daryl (Book List)
 - The Manual - By Epictetus
 - The Inner Citadel - By Pierre Hadot
 - Meditations - By Marcus Aurellius 
-- Dialogues and Essays - By Seneca
+- [Dialogues and Essays - By Seneca](/On-the-shortness-of-life)
 - How Will You Measure Your Life - By Clayton Christensen
 - The Subtle Art of Not Giving A Fuck - By Mark Manson
 - Antifragile - By Nassim Taleb

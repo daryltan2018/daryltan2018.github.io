@@ -1,31 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-	<link rel="shortcut icon" href="">
-	<meta name="viewport" content="width=device-width">
-  </head>
-  <body>
-	<header>
-<nav>
-<a href="/">Blog</a> | 	
-<a href="/projects.html">Projects</a> | 
-<a href="/blog.html">Archives</a>
-<!-- <a href="/about.html">About</a> -->
-</nav>
-</header>	
-    <h1></h1>
-<ul>
-  <li><a href="#introduction">Introduction</a></li>
-  <li><a href="#practical-books">Practical Books</a></li>
-  <li><a href="#history">History</a></li>
-  <li><a href="#philosophy">Philosophy</a></li>
-  <li><a href="#social-science">Social Science</a></li>
-</ul>
-
-
+I"
 <h2 id="introduction">Introduction</h2>
 <p>This is a collection of the books I’ve read since 2017.</p>
 
@@ -118,14 +91,4 @@
   <li>The Origins of Political Order -  By Francis Fukuyama</li>
   <li>Political Order and Political Decay - By Francis Fukuyama</li>
 </ul>
-
-
-<div class="PageNavigation">
-  
-  
-</div>
- 
-
-
-  </body>
-</html>
+:ET
