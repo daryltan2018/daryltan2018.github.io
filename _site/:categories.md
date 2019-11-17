@@ -1,4 +1,4 @@
-
+--
 {{TOC}}
 
 ## What is Aristotle's view on Ethics?
