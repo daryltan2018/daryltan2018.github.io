@@ -1,0 +1,6 @@
+---
+title: Daryl (Blog)
+---
+{% for term in site.terms %}
+    <a class="post-link" href="{{ term.url | prepend: site.baseurl }}">{{ term.title }}</a><br>
+{% endfor %}
