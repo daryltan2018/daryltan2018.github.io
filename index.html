@@ -4,7 +4,7 @@ title: Blog
 <ul>
   {% for post in site.posts limit:5 %}
       <h1>{{ post.title }}</h1>
-<em>	<p>Written on {{ post.date | date_to_long_string }}</p> </em>
+<p>By <a href="/">Daryl</a> on {{ post.date | date_to_long_string }}</p> 
       <p>{{ post.content }}</p>
 						
   {% endfor %}

@@ -2,11 +2,11 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<em><p>Written on {{ page.date | date_to_long_string }}</p></em> 		
+<p>By <a href="/">Daryl</a> on {{ page.date | date_to_long_string }}</p> 
 {% include toc.html html=content %}
 {{ content }}
 
-<div class="PageNavigation">
+<!-- <div class="PageNavigation">
   {% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
   {% endif %}
@@ -14,5 +14,5 @@ layout: default
     <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
   {% endif %}
 </div>
- 
 
+ -->
