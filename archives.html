@@ -1,6 +1,10 @@
 ---
-title: Daryl (Archives)
+title: Archives
 ---
+<h1>{{page.title}}</h1>
+
 {% for post in site.posts %}
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
 {% endfor %}
+<br>
+<span>Back to the main page <a href="/">here<a></span>

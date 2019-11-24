@@ -1,10 +1,10 @@
 ---
-title: Daryl (Blog)
+title: Blog
 ---
 <ul>
   {% for post in site.posts limit:5 %}
       <h1>{{ post.title }}</h1>
-	<p>Written on {{ post.date | date_to_long_string }}</p> 		
+<em>	<p>Written on {{ post.date | date_to_long_string }}</p> </em>
       <p>{{ post.content }}</p>
 						
   {% endfor %}
