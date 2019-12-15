@@ -6,7 +6,7 @@ For 2020, I've decided to cut down the number of business books, self-help books
 
 Previously I read up mostly on secondary literature of Stoicism. This year, I explored the primary source material through the writings of Epictetus, Marcus Aurelius and Seneca. 
 
-Seneca: A Life by Emily Wilson and [Seneca: Dialogues and Essays](/On-the-shortness-of-life) - My impression of Seneca has been coloured significantly by this biography and while he's the most articulate of the three, he's also the most polarising one (he was one of the richest men in Rome while he lived)
+Seneca: A Life by Emily Wilson and [Seneca: Dialogues and Essays](/On-The-Shortness-Of-Life) - My impression of Seneca has been coloured significantly by this biography and while he's the most articulate of the three, he's also the most polarising one (he was one of the richest men in Rome while he lived)
 
 The Meditations by Marcus Aurelius and The Inner Citadel by Pierre Hadot - I didn't really understand the Meditations until I read the Inner Citadel. Pierre Hadot made the meditations so much easier to understand - my summary of it here won't do it justice. Perhaps if I can spare the time, I will write about it sometime in the future.
 
@@ -30,7 +30,7 @@ Sherman by B.H. Liddell Hart , Montaigne and Magellan by Stefan Zweig and The Es
 
 So Good that they Can't Ignore You and Deep Work by Cal Newport - Working right trumps finding the right work.
 
-I liked How to Read A Book and [The Story of Philosophy](/The-Story-Of-Philosophy) too.
+I liked How to Read A Book and [The Story of Philosophy](/The-Story-of-Philosophy) too.
 
 ## Others
 
