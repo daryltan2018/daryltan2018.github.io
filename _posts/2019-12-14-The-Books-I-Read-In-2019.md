@@ -10,7 +10,7 @@ Seneca: A Life by Emily Wilson and [Seneca: Dialogues and Essays](/On-The-Shortn
 
 The Meditations by Marcus Aurelius and The Inner Citadel by Pierre Hadot - I didn't really understand the Meditations until I read the Inner Citadel. Pierre Hadot made the meditations so much easier to understand - my summary of it here won't do it justice. Perhaps if I can spare the time, I will write about it sometime in the future.
 
-Discourses and The Enchiridion by Epictetus - The Meditations was heavily influenced by the teachings of Epictetus; the Enchiridion feels a bit too condensed to be helpful but I suppose its intention was to cover the core of the Stoic philosophy.     
+The Discourses and The Enchiridion by Epictetus - The Meditations was heavily influenced by the teachings of Epictetus; the Enchiridion is too short to be helpful but reading The Discourses was more rewarding.     
 
 ## Existentialism 
 
@@ -22,7 +22,7 @@ Nietzsche by Walter Kaufmann - Only late this year I've begun to unearth the sur
 
 ## Biographies
 
-Sherman by B.H. Liddell Hart , Montaigne and Magellan by Stefan Zweig and The Essays by Montaigne, [Boyd: The Fighter Pilot Who Changed the Art of War](/To-Be-Or-To-Do), Plutarch's Lives, Lincoln's Melancholy by Joshua Wolf Shenk and I didn't have the patience to complete the titanic book Titan by Ron Chernow.
+[Sherman by B.H. Liddell Hart](/William-Sherman) , Montaigne and Magellan by Stefan Zweig and The Essays by Montaigne, [Boyd: The Fighter Pilot Who Changed the Art of War](/To-Be-Or-To-Do), Plutarch's Lives, Lincoln's Melancholy by Joshua Wolf Shenk and I didn't have the patience to complete the titanic book Titan by Ron Chernow.
 
 ## Practical Books
 
