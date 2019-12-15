@@ -1,0 +1,2 @@
+
+I've been reflecting on my writing thus far. My biggest gripe is that it feels shoddy, thoughtless and unrefined. For 2020, I resolve to write better and more thoughtful essays - works that in retrospect I can be proud of - that will stand the test of time. 
