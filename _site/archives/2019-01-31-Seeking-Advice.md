@@ -1,2 +1,0 @@
-> Professionals buy from other professionals. Amateurs ask friends for advice. - Seth Godin
-How true. That's why I hardly ask people for advice and even if I do, more often than not it's bad advice. Books, especially those that have stood the test of time, are where I find the most invaluable pieces of wisdom.

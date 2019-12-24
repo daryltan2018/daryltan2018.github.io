@@ -1,1 +1,0 @@
-Having something to say is actually an effective marketing tool. Who hasn’t read a book (or rather quit reading a book) where it’s transparent that the author either isn’t really into what he’s writing or he’s just trying to sell an idea, instead of writing with authority in a compelling way. That is bad marketing - Ryan Holiday

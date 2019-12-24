@@ -1,1 +1,0 @@
-A blog recounting the events of the day is far less interesting than one with filled with thoughtful ideas. 
