@@ -1,0 +1,1 @@
+“A good question to ask yourself – Are computers enhancing your productivity, or are you competing against computers (in which case you’re likely to lose)” - The Knowledge Project - Thinking About Thinking with Tyler Cowen

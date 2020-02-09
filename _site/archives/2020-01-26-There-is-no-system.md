@@ -1,0 +1,1 @@
+Sometimes writing does not demand a system. The words just flow out and then the outline comes later, if at all. Sometimes it comes out like the voice of angels. Many times it rings grotesque. But when the insights come, best to let it out rather than keep it in.

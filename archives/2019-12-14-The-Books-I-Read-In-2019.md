@@ -34,4 +34,4 @@ I liked How to Read A Book and [The Story of Philosophy](/The-Story-of-Philosoph
 
 ## Others
 
-There were also some underwhelming books that didn't do much for me. Like Thinking in Bets by Annie Duke, Average is Over by Tyler Cowen, Competing against Luck by Clayton Christensen, Alexander the Great by Arrian, 12 Caesars by Suetonius just to name a few.
+There were also some underwhelming books that didn't do much for me. Like Thinking in Bets by Annie Duke, Average is Over by Tyler Cowen, Competing against Luck by Clayton Christensen, Alexander the Great by Arrian, 12 Caesars by Suetonius just to name a few.w

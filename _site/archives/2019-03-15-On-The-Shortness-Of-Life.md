@@ -1,0 +1,18 @@
+
+The biggest fallacy is that life is too short. Most of the time, it really isn't. Perhaps if we look deeper maybe we might just be not spending it right. On the Shortness of Life, is one of my favourite essays written by the prolific Stoic philosopher Seneca who argues that:
+
+"It is not that we have a brief time to live, but that we squander it. Life is long enough."
+How then do we go about living? In one of my earlier posts I mentioned a technique that might help which is planning in advance...
+
+"But that man who devotes every hour to his own needs, who plans every day as if it were his last, neither longs for nor fears tomorrow"
+Seneca advocates planning because he knows that if we plan our days as if it were our last, we would fill it with activities that are more meaningful to us - like time with family and friends rather than squandering it on mindless television or Facebook scrolling. And we won't regret it when it is our time to leave this earth.
+
+As financially conscious people, we budget and plan our expenses and investments, but how many of us really know how we spend our time? As Peter Drucker famously noted, Effective executives know where they spend their time. Likewise, people who live their lives well know where they are spending theirs.
+
+"It is better to know the accounts of your own life than those of the corn-market."
+It isn't just planning. It also means learning to say No.If you're constantly being jerked around and asked to do things that may be someone else's agenda but not your own, how are you going to do the things you really want to do?? Saying No may be difficult and sometimes even has negative repercussions, but at least you won't be in the wretched condition of slaving away on the timelines of others.
+
+"The condition of all men who are busy with other things is wretched, but most wretched is that of men who busy themselves in pursuits that are not their own."
+Finally, it means starting now. Procrastination is the thief of time. As Annie Dillard said, "How we spend our days is how we spend our lives". So too should we heed Seneca's exhortation and stop procrastinating:
+
+How late it is to begin living only when one must stop!
