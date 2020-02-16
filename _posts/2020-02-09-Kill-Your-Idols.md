@@ -1,1 +1,0 @@
-	Stop following. Followers make nothing. Kill your idols. 

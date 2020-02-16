@@ -1,8 +1,8 @@
 body {
   margin: 60px auto;
   font-family: Verdana;
-  background-color: white;
-  color: #484848;
+  background-color: #57595D;
+  color: white;
   text-align: justify;
   text-justify: inter-word;
   width: 580px;
@@ -28,7 +28,7 @@ footer {
   font-size: 14px; }
 
 header a:hover {
-  border-bottom: 1px solid #999892; }
+  border-bottom: 1px solid white; }
 
 h1 {
   font-size: 38px;
@@ -135,15 +135,15 @@ pre {
     width: 100%;
     height: 100%; } }
 a {
-  color: #484848;
+  color: white;
   text-decoration: none;
-  border-bottom: 1px dotted #999892; }
+  border-bottom: 1px dotted white; }
 
 a:visited {
-  color: #484848; }
+  color: white; }
 
 a:hover {
-  border-bottom: 1px solid #999892; }
+  border-bottom: 1px solid white; }
 
 p {
   margin: 0 0 2ex 0; }

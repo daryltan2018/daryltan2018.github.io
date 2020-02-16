@@ -1,8 +1,8 @@
 body {
   margin: 60px auto;
   font-family: Verdana;
-	background-color: white;
-	color: #484848;
+	background-color: #57595D	;
+	color: white;
 	text-align: justify;
 	text-justify: inter-word;
   width: 580px;
@@ -35,7 +35,7 @@ footer {
 }
 
 header a:hover {
-	border-bottom: 1px solid #999892;
+	border-bottom: 1px solid white;
 }
 
 h1 {
@@ -161,17 +161,17 @@ pre {
 
 
 a {
-	color: #484848;
+	color: white;
 	text-decoration: none;
-	border-bottom: 1px dotted #999892;
+	border-bottom: 1px dotted white;
 }
 
 a:visited {
-  color: #484848	;
+  color: white	;
 }
 
 a:hover {
-	border-bottom: 1px solid #999892;
+	border-bottom: 1px solid white;
 }
 
 p {
